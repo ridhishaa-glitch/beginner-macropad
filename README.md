@@ -1,3 +1,6 @@
+#REQUEST
+I will try to include an OLED display and a rotatory switch in future, I am learning about them currently. So can you please send me display and a rotatory encode in exchange of 4 switches as the 4 switches will be removed to place the display and a rotatory encoder.
+
 # Macropad-Hackclub
 This is an Macro pad with 16 Buttons with background lighting. Its meant for simplicity and an everyday use. This is the reason why it will have shortcuts for Windows 11. You could adjust the Container of the PCB so that the lights are looking out, but scince I never saw this kind of LED I don't know how big the hole has to be.
 
@@ -21,6 +24,8 @@ BOM: (list of materials)
 - M3x16mm screws
 - M3x5mx4mm heatset inserts
 - 16 Cherry MX 1 Keyboardbuttons
-- 16 Keycaps
+- 12 Keycaps
+- 1 OLED display
+- 1 Rotatory encoder
 - 16 SK6812 MINI-E LEDs
 - 1 Seeed XIAO RP2040
