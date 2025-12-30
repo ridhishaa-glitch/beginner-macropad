@@ -17,6 +17,8 @@ Here you can see the PCB and all the components which you have to mount on it. T
 
 ![caseparts](image-4.png)
 You can see here all the parts you need for the case just screew 4 screews in it and its ready to go.
+![3d-image](Image-6.png)
+A 3d image of the project but its alot messed up, I need to learn more about it from the tutorials.
 
 BOM: (list of materials)
 - 1 PCB
